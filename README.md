@@ -1,4 +1,3 @@
-<p align="center">
 ![.NET](https://img.shields.io/badge/.NET-8-blue)
 ![React](https://img.shields.io/badge/React-TypeScript-blue)
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-green)
@@ -7,8 +6,6 @@
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 # WorkShift
-
-</p>
 
 A production-style **fullstack shift booking system** built with **.NET, React and modern DevSecOps practices**.
 
