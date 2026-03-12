@@ -1,11 +1,9 @@
-<p align="center">
 ![.NET](https://img.shields.io/badge/.NET-8-blue)
 ![React](https://img.shields.io/badge/React-TypeScript-blue)
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-green)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
-</p>
 
 # WorkShift
 
