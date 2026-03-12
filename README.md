@@ -383,6 +383,3 @@ It reflects the **kind of engineering environment I want to work in as a develop
 ---
 
 
-```
-
-```
