@@ -12,7 +12,7 @@ A production-style **fullstack shift booking system** built with **.NET, React a
 This project was built as my **final portfolio project during my .NET Fullstack YH education**.
 Instead of building multiple small demos, I focused on creating **one realistic system that demonstrates how modern software is built, tested, secured and deployed.**
 
-The project emphasizes:
+The project includes and implements:
 
 * Clean architecture
 * DevSecOps pipelines
@@ -23,6 +23,9 @@ The project emphasizes:
 The application is **publicly deployed** and can also be **run locally using Docker**.
 
 ---
+
+## Screenshots
+Ska lägga in bilder här
 
 ## Quick Overview (for recruiters)
 
@@ -84,14 +87,14 @@ Swagger
 
 ## About Me
 
-I am a soon-to-graduate **.NET Fullstack developer from a Swedish YH program**, currently looking for my **first junior developer role**.
+I am a soon-to-graduate **.NET Fullstack developer from a Swedish YH program at EC Utbildning**, currently looking for my **first junior developer role**.
 
 My main interests are:
 
-* Backend architecture
-* DevSecOps
-* Cloud-native systems
-* Scalable application design
+- **Cybersecurity** and building systems resilient against modern threat actors
+- **Security implications of AI systems** and how AI will affect future software security
+- **DevSecOps** and integrating security practices into the development lifecycle
+- **Complex distributed systems** and the challenges that arise when systems scale
 
 This project represents the **engineering practices I want to bring into my first development role**.
 
@@ -382,4 +385,9 @@ It reflects the **kind of engineering environment I want to work in as a develop
 
 ---
 
+## Contact
 
+If you have feedback, questions, or opportunities to collaborate:
+
+LinkedIn: www.linkedin.com/in/rasmus-waleij-4791a7128  
+Email: rasmus [dot] waleij [at] gmail [dot] com
