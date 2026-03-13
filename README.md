@@ -70,6 +70,19 @@ Managing employee work shifts where:
 * Integration tests
 * Testcontainers
 
+## DevOps Capabilities Demonstrated
+
+This project demonstrates several DevOps and DevSecOps practices:
+
+• Containerized services using Docker  
+• CI/CD pipelines with GitHub Actions  
+• Automated unit and integration testing  
+• Security scanning (SAST + dependency scanning)  
+• SBOM generation  
+• Structured logging using Serilog  
+• Distributed tracing using OpenTelemetry  
+• Health monitoring endpoints  
+• API Gateway architecture using YARP
 ---
 
 ## Live Demo
