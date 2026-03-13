@@ -97,6 +97,31 @@ Swagger
 `https://your-api-url/swagger`
 
 ---
+## Deployment
+
+The application is deployed using containerized services.
+
+Deployment setup:
+
+- Docker containers
+- YARP API Gateway for routing
+- ASP.NET APIs running behind the gateway
+- Environment configuration via environment variables
+- CI/CD pipeline using GitHub Actions
+
+Deployment flow:
+
+Developer Push
+        │
+        ▼
+GitHub Actions CI
+        │
+        ▼
+Docker image build
+        │
+        ▼
+Container deployment
+---
 
 ## About Me
 
